@@ -29,7 +29,7 @@ My favorite type of collection without any doubt is `GenericList`, we all know t
 use PHPCollections\Collections\GenericList;
 use Fake\Namespace\User;
 
-$users = GenericList(
+$users = new GenericList(
     User::class,
     new User('Robert Smith'),
     new User('Siouxsie Sioux'),
@@ -52,7 +52,7 @@ That's right! That's the reason PHPCollections offers `ArrayList`
 use PHPCollections\Collections\ArrayList;
 use Fake\Namespace\User;
 
-$users = ArrayList(
+$users = new ArrayList(
     new User('Patricia Morrison'),
     new User('Peter Murphy'),
 );
