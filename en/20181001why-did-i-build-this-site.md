@@ -16,4 +16,4 @@ When I learned to code I did it with one single thing in mind **to have fun**, n
 
 ### Post-credits
 
-Well, I think that it's, those are the main reasons why I built this site, I will do my best to write some quality content and to contribute to the community as a writer, developer, and human being. Thanks for staying at this point!
+Well, I think that it's, those are the main reasons why I built this site, I will do my best to write some quality content and to contribute to the community as a writer, developer, and human being. Thanks for staying this long!

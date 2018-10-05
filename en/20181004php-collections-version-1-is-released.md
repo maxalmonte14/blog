@@ -2,15 +2,15 @@
 
 PHPCollections is a set of Java/C#-like collections written in PHP, the idea behind this is to have a similar way of dealing with large and complex amounts of data in a powerful way with a simple API instead of working with plain PHP arrays.
 
-I started this project like one year ago (the first commit date is 10/10/2017!), and by one or another reason I never found the time to complete it, until now of course.
+I started this project about a year ago (the first commit date is 10/10/2017!), for whatever reason I never found the time to complete it, until now of course.
 
 ### Why PHPCollections?
 
-Maybe you're thinking right now _"why to work with collections?", "What is the big deal?", "We have beautiful native arrays!"_, and you are totally right, in a dynamic language like PHP, arrays fit almost any need.
+Maybe you're thinking right now _"why work with collections?", "What is the big deal?", "We have beautiful native arrays!"_, and you are totally right, in a dynamic language like PHP, arrays fit almost any need.
 
 But! Every day more people are using PHP to build larger and more complex applications, and manipulating data can turn into a really awful experience. So, here is when PHPCollections come to scene.
 
-PHPCollections offers a set of different well-documented classes to fit different needs, do you need a stack to represent a set of descendant ordered data? Do you need to only store a certain type of object into a collection? Do you need a collection as flexible as native PHP arrays but with the power of object-oriented? PHPCollections has you cover!
+PHPCollections offers a set of different well-documented classes to fit different needs: do you need a stack to represent a set of descendant ordered data? Do you need to only store a certain type of object into a collection? Do you need a collection as flexible as native PHP arrays but with the power of object-oriented? PHPCollections has you cover!
 
 ### Different type of collections
 
@@ -81,4 +81,4 @@ If you like the package you can find it on [Github](https://github.com/maxalmont
 
 ### Post-credits
 
-I put a lot of effort in building PHPCollections, if you come from the Java/C# world I hope you like it, if you're a pure PHP developer I hope you like it too! And if you haven't work with collections before I hope you give it a try. Thanks for staying at this point!
+I put a lot of effort in building PHPCollections, if you come from the Java/C# world I hope you like it, if you're a pure PHP developer I hope you like it too! And if you haven't work with collections before I hope you give it a try. Thanks for staying this long!
