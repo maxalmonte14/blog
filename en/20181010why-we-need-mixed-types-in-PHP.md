@@ -71,4 +71,4 @@ Actually, there is an ongoing conversation about adding mixed or not, [here](htt
 
 ### Post-credits
 
-PHP has improved a lot in the last few years, in PHP 4 we even hadn't Object Oriented Programming, today we have overloading via magic methods, traits, typed properties (coming soon in PHP 7.3!) and a lot of beautiful and powerful features that give us flexibility like the strict mode. I think adding the mixed type would be another good addition to the language, what do you think?. Thanks for staying this long!
+PHP has improved a lot in the last few years, in PHP 4 we even hadn't Object Oriented Programming, today we have overloading via magic methods, traits, typed properties (coming soon in PHP 7.4!) and a lot of beautiful and powerful features that give us flexibility like the strict mode. I think adding the mixed type would be another good addition to the language, what do you think?. Thanks for staying this long!
