@@ -33,7 +33,7 @@ So, what should we do? Simple, **fake it**. To demonstrate my approach we will b
 
 The first thing we need to do is create a new project.
 
-`composer create-project --prefer-dist laravel-zero/laravel-zero movie-cli`
+`composer create-project --prefer-dist laravel-zero/laravel-zero weather-cli`
 
 The second thing to do if we follow the [TDD](https://en.wikipedia.org/wiki/Test-driven_development) approach is to create a feature test to define our _walking skeleton_.
 
@@ -95,7 +95,7 @@ class HttpClient implements HttpClientInterface
 }
 ```
 
-Perfect, now we have to request data from to endpoints.
+Perfect, now we have to request data from two endpoints.
 
 ### Step 4
 
@@ -123,7 +123,7 @@ class JsonParser
 }
 ```
 
-Now we have to define two [DTO's](https://en.wikipedia.org/wiki/Data_transfer_object) to store the response of the API calls, the first will be `CityInformation` and the second `Weather`, they will look like this.
+Now we have to define two [DTOs](https://en.wikipedia.org/wiki/Data_transfer_object) to store the response of the API calls, the first will be `CityInformation` and the second `Weather`, they will look like this.
 
 ```php
 namespace App\DTO;
