@@ -14,7 +14,7 @@ Before starting there are certain tools you need to install.
 
 ## Setting up the workspace
 
-Install the [.NET Core SDK](https://www.microsoft.com/net/download), we will be using 2.1 version.
+Install the [.NET Core SDK](https://www.microsoft.com/net/download), we will be using version 2.1.
 
 Download and install [Visual Studio Code](https://code.visualstudio.com/Download).
 
